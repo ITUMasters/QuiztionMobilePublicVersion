@@ -27,14 +27,15 @@ yarn run android # for Android
 | init           | Initializaiton                                    |
 | refactor       | The update for refactoring parts of the code      |
 | chore          | Small updates that does not affect the workflow   |
-<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/71aa812e-1f8d-4ef8-a128-71e8fc1e5e43" width="20%" height="20%">
-<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/9b7589f9-e47e-4dfb-a41b-80668332e5c3" width="20%" height="20%">
-<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/b764cde5-44c3-494d-ba0b-c777d3fa7ecb" width="20%" height="20%">
-<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/5dfe2dd9-5903-4596-92d8-9d032d068707" width="20%" height="20%">
-<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/ad02ee0a-8cdb-459f-8b58-adb04e605884" width="20%" height="20%">
-<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/b0ae09a7-a602-4457-9769-20360285395b" width="20%" height="20%">
-<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/d3be849f-a9dc-434c-a23d-8103166f630d" width="20%" height="20%">
-<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/dd047dbf-d5ee-475f-b348-5778a1fdde2f" width="20%" height="20%">
+<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/0e68156d-b991-48dc-ad5d-f28ed80f4ba6" width="20%" height="20%">
+<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/ae16edb6-d37d-4ce8-ba6a-8fc04f58e9d3" width="20%" height="20%">
+<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/59a272a9-1251-45a2-acb3-397d6cf354a6" width="20%" height="20%">
+<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/602d1e05-70c8-4fa4-97a0-2b213d217779" width="20%" height="20%">
+<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/f72088bb-d034-4562-9e24-1b176397d957" width="20%" height="20%">
+<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/fcb923ea-c593-4701-91cd-08a5d5fda10e" width="20%" height="20%">
+<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/df226e5a-7b3c-4838-b26d-1bf6fdb2b3ad" width="20%" height="20%">
+<img src="https://github.com/ITUMasters/QuiztionMobilePublicVersion/assets/55799734/464e37aa-aab8-4838-a345-50821c7a35c8" width="20%" height="20%">
+
 
 
 
